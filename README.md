@@ -1,2 +1,3 @@
-# Practice
-Info from JRS Code School
+# `Name:` Practice
+  
+`Description:` Info from JRS Code School.
