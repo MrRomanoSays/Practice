@@ -2,10 +2,8 @@
 
 `What is this?`
 ### Practice Materials
---  
 `What's this from?` 
 #### Learning from JRS Code School.
---
 `Tell Me More:`
 About *JRS Coding School*
 ---
