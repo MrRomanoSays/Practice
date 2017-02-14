@@ -2,10 +2,10 @@
 
 `GIT REPOSITORY INFO:`
 ##### Keeping track of practice material
-`TRAINING FROM:` 
-##### JRS Code School.
+`TRAINING FROM:`
+##### Jack Russel Software's Code School.
 
-`MORE INFORMATION ABOUT JRS CODE SCHOOL:`
+`MORE INFORMATION ABOUT CODE SCHOOL:`
 ---
 Technology continues to accelerate at a rapid speed, and it has fostered an insatiable demand for leading-edge technology business products and the professionals who develop them. The JRS Coding School was established in 2016 to help bridge the gap between the demand for development expertise and the talent available in the marketplace.
 
