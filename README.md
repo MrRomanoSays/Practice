@@ -1,4 +1,4 @@
-![JRS Code School Logo](https://pbs.twimg.com/profile_images/806241921869942784/fqHkXan8.jpg)
+# Code School
 
 `GIT REPOSITORY INFO:`
 ##### Keeping track of practice material
